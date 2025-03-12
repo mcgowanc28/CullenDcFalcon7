@@ -1,9 +1,11 @@
 h3{ 
     text-transform: uppercase;
+  
 }
 p{ 
     font-family: Arial;
+    
 }
 body{ 
-    background-color: beige;
+    background-image: url( img/firefighter.jpg); 
 }
