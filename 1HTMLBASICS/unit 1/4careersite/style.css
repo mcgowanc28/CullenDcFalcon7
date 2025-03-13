@@ -9,3 +9,8 @@ p{
 body{ 
     background-image: url( img/firefighter.jpg); 
 }
+.jobtitle{ 
+    color: white;
+    font-weight: bold;
+    
+}
