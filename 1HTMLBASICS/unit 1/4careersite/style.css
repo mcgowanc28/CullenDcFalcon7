@@ -2,15 +2,32 @@ h3{
     text-transform: uppercase;
   
 }
+ h2{
+font-family: sans-serif;
+color: chartreuse;
+}
 p{ 
-    font-family: Arial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
     
 }
 body{ 
-    background-image: url( img/firefighter.jpg); 
+    background-color: darkgoldenrod; 
 }
 .jobtitle{ 
     color: white;
     font-weight: bold;
     
+}
+footer{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+}
+main{
+    font-family: fantasy;
+    color: blue;
+}
+header{ 
+    font-family: cursive;
+    color: pink;
 }
