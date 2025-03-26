@@ -31,3 +31,11 @@ header{
     font-family: cursive;
     color: pink;
 }
+ol{ 
+    font-size: 25px;
+    font-weight: bold;
+}
+ul{ 
+    font-size: 18px;
+    font-weight: normal;
+}
