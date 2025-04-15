@@ -13,14 +13,14 @@ button {
     font-size: 15px;
     outline: none;
 }
-.clickable.hover { background-color: yellow;
+.clickable:active{ background-color: darkblue;
 
 
 
 }
-.clickable.active{ background-color: black;
+.unclickable:hover{ background-color: gray; cursor: not-allowed
 }
-.unclickable
+
 
 
 

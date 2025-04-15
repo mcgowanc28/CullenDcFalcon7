@@ -1,4 +1,5 @@
 .tooltip:hover .tooltip-text{
+    visibility: visible;
     
 }
 
@@ -17,14 +18,16 @@
     border-radius:6px; /* Create rounded corners*/
     position: absolute;
     z-index: 1;  /* Causes it to be in front of other elements */
+    visibility: hidden
+  
     
     
     /* Position the text
        relative to its container,
        div.tooltip*/
-    left: ;
-    top: ;
-    padding:;
+       left: 250px;
+       top:70px ;
+       padding:7px;
 }
 
 
