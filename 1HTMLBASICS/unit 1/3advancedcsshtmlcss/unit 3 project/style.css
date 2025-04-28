@@ -1,0 +1,14 @@
+body{ 
+    background-color: crimson;
+}
+h1{ 
+    color: cyan;
+}
+h2{
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: cursive;
+    color: honeydew;
+}
