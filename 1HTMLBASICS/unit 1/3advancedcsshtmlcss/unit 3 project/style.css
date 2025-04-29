@@ -12,3 +12,22 @@ p{
     font-family: cursive;
     color: honeydew;
 }
+hr{ 
+    color: white;
+}
+img{ 
+    animation: sepiaFilter 3s forwards;
+}
+@keyframes sepiaFilter {
+    from {
+        filter: blur(100px);
+    }
+    
+    to {
+        filter: blur(0px);
+
+    }
+}
+h2:hover{
+    font-size: 30px;
+}
