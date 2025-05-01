@@ -27,7 +27,11 @@ img{
         filter: blur(0px);
 
     }
+    
 }
 h2:hover{
+    font-size: 30px;
+}
+img:hover{ 
     font-size: 30px;
 }
