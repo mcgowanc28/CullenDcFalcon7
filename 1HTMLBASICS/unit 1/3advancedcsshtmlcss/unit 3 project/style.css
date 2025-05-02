@@ -32,6 +32,19 @@ img{
 h2:hover{
     font-size: 30px;
 }
-img:hover{ 
+h1:hover{
+    font-family: cursive;
+}
+a{ 
+    color: black;
     font-size: 30px;
+}
+p:hover{ 
+    font-size: 20px;
+}
+
+#TD{ 
+    position: absolute;
+    top: 75px;
+    right: 75px;
 }
