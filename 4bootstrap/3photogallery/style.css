@@ -12,6 +12,7 @@ h2, h3, h4, h5, h6{
 
 a{
     color:inherit;
+   
 }
 
 a:hover{
@@ -44,4 +45,7 @@ a:hover{
 }
 .front-nav-3{
     background-color: #80598d;
+}
+header{ 
+    background-image: blue;
 }
